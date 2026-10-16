@@ -1,3 +1,3 @@
-# Placeholder python package
+from .vector_store import VectorStore
 
-# Create package layout
+__all__ = ["VectorStore"]
