@@ -1,0 +1,13 @@
+openai>=0.27.0
+chromadb>=0.3.25
+langchain>=0.0.300
+pypdf>=3.10.0
+python-docx>=0.8.11
+streamlit>=1.20.0
+tqdm>=4.64.0
+pytest>=7.0.0
+pytest-cov
+black
+flake8
+python-dotenv
+requests
