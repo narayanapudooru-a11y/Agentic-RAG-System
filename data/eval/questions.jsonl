@@ -1,0 +1,3 @@
+{"id": "q1", "question": "What color is an apple?", "gold": ["red", "red apple"]}
+{"id": "q2", "question": "What fruit is yellow and long?", "gold": ["banana"]}
+{"id": "q3", "question": "Name a model architecture used in NLP", "gold": ["transformer", "transformers"]}
